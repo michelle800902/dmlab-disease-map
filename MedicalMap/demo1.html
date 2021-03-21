@@ -1,0 +1,438 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<title>Taiwan Healthcare Data Visualization</title>
+		<style>
+			#map {
+				width: 800px;
+				height: 600px;
+			}
+			.overlay { 
+				fill: none;
+				pointer-events: all;
+			}
+		</style>
+		<script type="text/javascript" src="http://d3js.org/d3.v3.min.js"></script>
+		<script type="text/javascript" src="http://d3js.org/topojson.v1.min.js"></script>
+	</head>
+	<body>
+		<div>
+			<form>
+				就醫科別:
+				<input id="FUNC_TYPE", type="text"></input>
+				<input id="FUNC_TYPE_Click", type="button", value="查詢"></input>
+  				國際疾病分類號: 
+				<input id="ACODE_ICD9", type="text"></input>
+				<input id="ACODE_ICD9_Click", type="button", value="查詢"></input>
+				特定治療項目代號:
+				<input  id="CURE_ITEM", type="text"></input>
+				<input id="CURE_ITEM_Click", type="button", value="查詢"></input>
+				主手術代碼:
+				<input id="ICD_OP_CODE", type="text"></input>
+				<input id="ICD_OP_CODE_Click", type="button", value="查詢"></input>
+			</form>
+			<svg id="map" width="800px" height="600px" viewBox="0 0 800 600"></svg>
+		</div>
+	</body>
+	<script>
+	document.getElementById("FUNC_TYPE_Click").onclick = FUNC_TYPE_Query;
+	document.getElementById("ACODE_ICD9_Click").onclick = ACODE_ICD9_Query;
+	document.getElementById("CURE_ITEM_Click").onclick = CURE_ITEM_Query;
+	document.getElementById("ICD_OP_CODE_Click").onclick = ICD_OP_CODE_Query;
+    initial()
+
+	/************************************ D3 JavaScript ************************************/
+
+	// Draw the line of county boundary with D3
+	function initial() { 
+		d3.json("county_boundary.json", function (county) {
+			var proj = d3.geo.mercator()
+			             .center([120, 24])
+						 .scale(8500);
+
+			var path = d3.geo.path()
+			             .projection(proj);					
+
+			var map = d3.select("svg#map")
+						.selectAll("path")
+						.data(county.features)
+						.enter()
+						.append("path")
+						.attr("stroke", "gray")
+						.attr("stroke-width", 1)
+						.attr("fill", "white")
+						.attr("d", path)
+						.append("svg:title")
+						.text(function(d) {
+							return d.properties.C_Name;
+						});
+		});
+		buildLegend(0, 0, 0);
+	}
+
+	function buildLegend(min, mid, max) {
+		var legendRectSize = 18, legendSpacing = 4;
+
+		var color = d3.scale.ordinal()
+    		          .domain([min, (min+((min+mid)/2))/2, (min+mid)/2, (((min+mid)/2)+mid)/2, mid, (mid+((mid+max)/2))/2, (mid+max)/2, (((mid+max)/2)+max)/2, max])
+					  .range(["white", "#B0E0E6", "#7AB8CC", "#4682B4", "#0047AB", "#24367D", "#082567", "#00477D", "#006374"]);
+		
+		var legend = d3.select("svg")
+    			       .append("g")
+					   .selectAll("g")
+					   .data(color.domain())
+					   .enter()
+					   .append("g")
+					   .attr("class", "legend")
+					   .attr("transform", function(d, i) {
+						   var height = legendRectSize;
+						   var x = 100;
+						   var y = 300 + i * height;
+						   return "translate(" + x + "," + y + ")";
+						});
+
+		legend.append("rect")
+              .attr("width", legendRectSize)
+              .attr("height", legendRectSize)
+			  .style("fill", color)
+			  .style("stroke", color)
+			  //.style("stroke-width", 0.5);
+		
+		legend.append("text")
+              .attr("x", legendRectSize + legendSpacing)
+              .attr("y", legendRectSize - legendSpacing)
+              .text(function(d) { 
+				  return d; 
+			  });
+	}
+
+
+	function FUNC_TYPE_Query() { // 查詢就醫科別
+		var input = document.getElementById("FUNC_TYPE").value;
+		var disease = [];
+
+		if(input == "") {
+			alert("請輸入就醫科別!");
+		}
+		else {
+			// Remove the original map
+			d3.selectAll("path").remove(); 
+			// Draw the new map
+			d3.json("county_boundary.json", function (county) {
+				// Count people
+				d3.json("data/data_en.json", function (data) {	
+					// Project the map position on the screen
+					prj = d3.geo.mercator().center([120, 24]).scale(8500);
+					path = d3.geo.path().projection(prj);					
+					// Initialize the Array to store every county's people values
+					for(var i = 0, len = county.features.length; i < len; i+=1) {
+						var obj = new Object();
+						obj.location = county.features[i].properties.C_Name;
+						obj.people = 0;
+						disease.push(obj);
+					}
+					
+					data.forEach(function (d) {
+						 if (input == d.FUNC_TYPE) {
+							 var county_name = d.AREA_NO_H_CH.substr(0,3); //substr(start index,length)
+							
+							 if(county_name == "臺北縣") county_name = "新北市";
+							 if(county_name == "桃園縣") county_name = "桃園市";
+							 if(county_name == "臺中縣") county_name = "臺中市";
+							 if(county_name == "臺南縣") county_name = "臺南市";
+							 if(county_name == "高雄縣") county_name = "高雄市";
+							 if(county_name == "台東縣") county_name = "臺東縣";
+							 
+							 for (var i = 0; i < disease.length; i++) {
+								if(disease[i].location == county_name) { 
+									disease[i].people++;
+								}
+							 }
+						 }
+					});
+		
+					for (var i = 0; i < disease.length; i++) {
+						console.log(disease[i]);
+					}
+
+					var result = []; // Result of computing people
+					for(var i = 0, len = county.features.length; i < len; i+=1) {
+						county.features[i].properties.value = disease[i].people;
+						result[i] = disease[i].people;
+					}
+					
+					var min = d3.min(result);
+					var max = d3.max(result);
+					var mid = (min+max)/2;
+					colorMap = d3.scale.linear()
+						.domain([min, (min+((min+mid)/2))/2, (min+mid)/2, (((min+mid)/2)+mid)/2, mid, (mid+((mid+max)/2))/2, (mid+max)/2, (((mid+max)/2)+max)/2, max])
+						.range(["white", "#B0E0E6", "#7AB8CC", "#4682B4", "#0047AB", "#24367D", "#082567", "#00477D", "#006374"]);
+					
+					d3.select("svg#map")
+					.selectAll("path")
+					.data(county.features)
+					.enter()
+					.append("path")
+					.attr("stroke", "gray")
+					.attr("stroke-width", 1)
+					.attr("fill", function(d){ 
+						return colorMap(d.properties.value); 
+					})
+					.attr("d", path)
+					.append("svg:title")
+					.text(function(d) {
+						return d.properties.C_Name + d.properties.value + "人";
+					});
+
+					buildLegend(min, mid, max);
+				});
+			});
+		}
+	}
+
+	function ACODE_ICD9_Query() { // 查詢國際疾病分類號
+		var input = document.getElementById("ACODE_ICD9").value;
+		var disease = [];
+
+		if(input == "") {
+			alert("請輸入國際疾病分類號!");
+		}
+		else {
+			// Remove the original map
+			d3.selectAll("path").remove(); 
+			// Draw the new map
+			d3.json("county_boundary.json", function (county) {
+				// Count people
+				d3.json("data/data_en.json", function (data) {	
+					// Project the map position on the screen
+					prj = d3.geo.mercator().center([120, 24]).scale(8500);
+					path = d3.geo.path().projection(prj);					
+					// Initialize the Array to store every county's people values
+					for(var i = 0, len = county.features.length; i < len; i+=1) {
+						var obj = new Object();
+						obj.location = county.features[i].properties.C_Name;
+						obj.people = 0;
+						disease.push(obj);
+					}
+					
+					data.forEach(function (d) {
+						 if (input == d.ACODE_ICD9_1 || input == d.ACODE_ICD9_2 || input == d.ACODE_ICD9_3) {
+							var county_name = d.AREA_NO_H_CH.substr(0,3); //substr(start index,length)
+							
+							 if(county_name == "臺北縣") county_name = "新北市";
+							 if(county_name == "桃園縣") county_name = "桃園市";
+							 if(county_name == "臺中縣") county_name = "臺中市";
+							 if(county_name == "臺南縣") county_name = "臺南市";
+							 if(county_name == "高雄縣") county_name = "高雄市";
+							 if(county_name == "台東縣") county_name = "臺東縣";
+							 
+							 for (var i = 0; i < disease.length; i++) {
+								if(disease[i].location == county_name) { 
+									disease[i].people++;
+								}
+							 }
+						 }
+					});
+					for (var i = 0; i < disease.length; i++) {
+						console.log(disease[i]);
+					}
+
+					var domain = [];
+					for(var i = 0, len = county.features.length; i < len; i+=1) {
+						county.features[i].properties.value = disease[i].people;
+						domain[i] = disease[i].people;
+					}
+					
+					var min = d3.min(domain);
+					var max = d3.max(domain);
+
+
+					colorMap = d3.scale.linear()
+						.domain([min, (min+max)/2, max])
+						.range(['white', '#5A5AAD', '#000079']);
+
+					d3.select("svg#map")
+					.selectAll("path")
+					.data(county.features)
+					.enter()
+					.append("path")
+					.attr("stroke", "gray")
+					.attr("stroke-width", 1)
+					.attr("fill", function(d){ 
+						return colorMap(d.properties.value); 
+					})
+					.attr("d", path)
+					.append('svg:title')
+					.text(function(d) {
+						return d.properties.C_Name + d.properties.value + "人";
+					});
+				});
+			});
+		}
+	}
+
+	function CURE_ITEM_Query() { // 查詢特定治療項目代號
+		var input = document.getElementById("CURE_ITEM").value;
+		var disease = [];
+
+		if(input == "") {
+			alert("請輸入特定治療項目代號!");
+		}
+		else {
+			// Remove the original map
+			d3.selectAll("path").remove(); 
+			// Draw the new map
+			d3.json("county_boundary.json", function (county) {
+				// Count people
+				d3.json("data/data_en.json", function (data) {	
+					// Project the map position on the screen
+					prj = d3.geo.mercator().center([120, 24]).scale(8500);
+					path = d3.geo.path().projection(prj);					
+					// Initialize the Array to store every county's people values
+					for(var i = 0, len = county.features.length; i < len; i+=1) {
+						var obj = new Object();
+						obj.location = county.features[i].properties.C_Name;
+						obj.people = 0;
+						disease.push(obj);
+					}
+					
+					data.forEach(function (d) {
+						 if (input == d.CURE_ITEM_NO1 || input == d.CURE_ITEM_NO2 || input == d.CURE_ITEM_NO3 || input == d.CURE_ITEM_NO4) {
+							 var county_name = d.AREA_NO_H_CH.substr(0,3); //substr(start index,length)
+							
+							 if(county_name == "臺北縣") county_name = "新北市";
+							 if(county_name == "桃園縣") county_name = "桃園市";
+							 if(county_name == "臺中縣") county_name = "臺中市";
+							 if(county_name == "臺南縣") county_name = "臺南市";
+							 if(county_name == "高雄縣") county_name = "高雄市";
+							 if(county_name == "台東縣") county_name = "臺東縣";
+							 
+							 for (var i = 0; i < disease.length; i++) {
+								if(disease[i].location == county_name) { 
+									disease[i].people++;
+								}
+							 }
+						 }
+					});
+					for (var i = 0; i < disease.length; i++) {
+						console.log(disease[i]);
+					}
+
+					var domain = [];
+					for(var i = 0, len = county.features.length; i < len; i+=1) {
+						county.features[i].properties.value = disease[i].people;
+						domain[i] = disease[i].people;
+					}
+					
+					var min = d3.min(domain);
+					var max = d3.max(domain);
+
+					colorMap = d3.scale.linear()
+						.domain([min, (min+max)/2, max])
+						.range(['white', '#5A5AAD', '#000079']);
+
+					d3.select("svg#map")
+					.selectAll("path")
+					.data(county.features)
+					.enter()
+					.append("path")
+					.attr("stroke", "gray")
+					.attr("stroke-width", 1)
+					.attr("fill", function(d){ 
+						return colorMap(d.properties.value); 
+					})
+					.attr("d", path)
+					.append('svg:title')
+					.text(function(d) {
+						return d.properties.C_Name + d.properties.value + "人";
+					});
+			
+				});
+			});
+		}
+	}
+
+	function ICD_OP_CODE_Query() { // 查詢主手術代碼
+		var input = document.getElementById("ICD_OP_CODE").value;
+		var disease = [];
+
+		if(input == "") {
+			alert("請輸主手術代碼!");
+		}
+		else {
+			// Remove the original map
+			d3.selectAll("path").remove(); 
+			// Draw the new map
+			d3.json("county_boundary.json", function (county) {
+				// Count people
+				d3.json("data/data_en.json", function (data) {	
+					// Project the map position on the screen
+					prj = d3.geo.mercator().center([120, 24]).scale(8500);
+					path = d3.geo.path().projection(prj);					
+					// Initialize the Array to store every county's people values
+					for(var i = 0, len = county.features.length; i < len; i+=1) {
+						var obj = new Object();
+						obj.location = county.features[i].properties.C_Name;
+						obj.people = 0;
+						disease.push(obj);
+					}
+					
+					data.forEach(function (d) {
+						 if (input == d.ICD_OP_CODE) {
+							var county_name = d.AREA_NO_H_CH.substr(0,3); //substr(start index,length)
+							
+							 if(county_name == "臺北縣") county_name = "新北市";
+							 if(county_name == "桃園縣") county_name = "桃園市";
+							 if(county_name == "臺中縣") county_name = "臺中市";
+							 if(county_name == "臺南縣") county_name = "臺南市";
+							 if(county_name == "高雄縣") county_name = "高雄市";
+							 if(county_name == "台東縣") county_name = "臺東縣";
+							 
+							 for (var i = 0; i < disease.length; i++) {
+								if(disease[i].location == county_name) { 
+									disease[i].people++;
+								}
+							 }
+						 }
+					});
+					for (var i = 0; i < disease.length; i++) {
+						console.log(disease[i]);
+					}
+
+					var domain = [];
+					for(var i = 0, len = county.features.length; i < len; i+=1) {
+						county.features[i].properties.value = disease[i].people;
+						domain[i] = disease[i].people;
+					}
+					
+					var min = d3.min(domain);
+					var max = d3.max(domain);
+
+					colorMap = d3.scale.linear()
+						.domain([min, (min+max)/2, max])
+						.range(['white', '#5A5AAD', '#000079']);
+
+					d3.select("svg#map")
+					.selectAll("path")
+					.data(county.features)
+					.enter()
+					.append("path")
+					.attr("stroke", "gray")
+					.attr("stroke-width", 1)
+					.attr("fill", function(d){ 
+						return colorMap(d.properties.value); 
+					})
+					.attr("d", path)
+					.append('svg:title')
+					.text(function(d) {
+						return d.properties.C_Name + d.properties.value + "人";
+					});
+			
+				});
+			});
+		}
+	}
+	</script>	
+</html>
+

@@ -1,0 +1,17 @@
+# import db
+
+sudo -u postgres createuser --interactive # 建立user
+createdb -T template0 ptt
+pg_restore -v -j 5 -d ptt psql_demo_data
+
+# extract g0v_data
+
+tar zxvf g0v_data.tar.gzip
+
+# install package
+
+pip install -r requirements.txt
+
+# init django
+
+python manage.py migrate

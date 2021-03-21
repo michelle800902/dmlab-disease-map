@@ -1,0 +1,16 @@
+*.DS_Store
+*.pyc
+*.swp
+*.sqlite3
+*.csv
+*.marshal
+*.zip
+*.log
+
+GeoLiteCity.dat
+g0v_data
+venv*
+migrations
+log
+psql_demo_data
+g0v_data

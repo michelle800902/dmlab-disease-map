@@ -1,0 +1,7362 @@
+[
+    {
+        "County_ID": "10014",
+        "County_Name": "臺東縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1001402",
+        "Town_Name": "成功鎮"
+    },
+    {
+        "County_ID": "10013",
+        "County_Name": "屏東縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1001321",
+        "Town_Name": "佳冬鄉"
+    },
+    {
+        "County_ID": "10009",
+        "County_Name": "雲林縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1000913",
+        "Town_Name": "麥寮鄉"
+    },
+    {
+        "County_ID": "10014",
+        "County_Name": "臺東縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1001411",
+        "Town_Name": "綠島鄉"
+    },
+    {
+        "County_ID": "10014",
+        "County_Name": "臺東縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1001416",
+        "Town_Name": "蘭嶼鄉"
+    },
+    {
+        "County_ID": "10007",
+        "County_Name": "彰化縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1000712",
+        "Town_Name": "田中鎮"
+    },
+    {
+        "County_ID": "10007",
+        "County_Name": "彰化縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1000717",
+        "Town_Name": "社頭鄉"
+    },
+    {
+        "County_ID": "10013",
+        "County_Name": "屏東縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1001314",
+        "Town_Name": "竹田鄉"
+    },
+    {
+        "County_ID": "10013",
+        "County_Name": "屏東縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1001305",
+        "Town_Name": "萬丹鄉"
+    },
+    {
+        "County_ID": "10005",
+        "County_Name": "苗栗縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1000516",
+        "Town_Name": "三灣鄉"
+    },
+    {
+        "County_ID": "10004",
+        "County_Name": "新竹縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1000411",
+        "Town_Name": "峨眉鄉"
+    },
+    {
+        "County_ID": "10005",
+        "County_Name": "苗栗縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1000511",
+        "Town_Name": "南庄鄉"
+    },
+    {
+        "County_ID": "66",
+        "County_Name": "臺中市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "6602300",
+        "Town_Name": "烏日區"
+    },
+    {
+        "County_ID": "66",
+        "County_Name": "臺中市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "6600700",
+        "Town_Name": "南屯區"
+    },
+    {
+        "County_ID": "64",
+        "County_Name": "高雄市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "6401000",
+        "Town_Name": "旗津區"
+    },
+    {
+        "County_ID": "64",
+        "County_Name": "高雄市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "6401100",
+        "Town_Name": "小港區"
+    },
+    {
+        "County_ID": "09007",
+        "County_Name": "連江縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "0900701",
+        "Town_Name": "南竿鄉"
+    },
+    {
+        "County_ID": "09007",
+        "County_Name": "連江縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "0900702",
+        "Town_Name": "北竿鄉"
+    },
+    {
+        "County_ID": "09007",
+        "County_Name": "連江縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "0900703",
+        "Town_Name": "莒光鄉"
+    },
+    {
+        "County_ID": "09007",
+        "County_Name": "連江縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "0900704",
+        "Town_Name": "東引鄉"
+    },
+    {
+        "County_ID": "09020",
+        "County_Name": "金門縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "0902001",
+        "Town_Name": "金城鎮"
+    },
+    {
+        "County_ID": "09020",
+        "County_Name": "金門縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "0902002",
+        "Town_Name": "金沙鎮"
+    },
+    {
+        "County_ID": "09020",
+        "County_Name": "金門縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "0902003",
+        "Town_Name": "金湖鎮"
+    },
+    {
+        "County_ID": "09020",
+        "County_Name": "金門縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "0902004",
+        "Town_Name": "金寧鄉"
+    },
+    {
+        "County_ID": "09020",
+        "County_Name": "金門縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "0902005",
+        "Town_Name": "烈嶼鄉"
+    },
+    {
+        "County_ID": "09020",
+        "County_Name": "金門縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "0902006",
+        "Town_Name": "烏坵鄉"
+    },
+    {
+        "County_ID": "10002",
+        "County_Name": "宜蘭縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1000201",
+        "Town_Name": "宜蘭市"
+    },
+    {
+        "County_ID": "10002",
+        "County_Name": "宜蘭縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1000202",
+        "Town_Name": "羅東鎮"
+    },
+    {
+        "County_ID": "10002",
+        "County_Name": "宜蘭縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1000205",
+        "Town_Name": "礁溪鄉"
+    },
+    {
+        "County_ID": "10002",
+        "County_Name": "宜蘭縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1000207",
+        "Town_Name": "員山鄉"
+    },
+    {
+        "County_ID": "10002",
+        "County_Name": "宜蘭縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1000208",
+        "Town_Name": "冬山鄉"
+    },
+    {
+        "County_ID": "10002",
+        "County_Name": "宜蘭縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1000210",
+        "Town_Name": "三星鄉"
+    },
+    {
+        "County_ID": "10002",
+        "County_Name": "宜蘭縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1000211",
+        "Town_Name": "大同鄉"
+    },
+    {
+        "County_ID": "10004",
+        "County_Name": "新竹縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1000402",
+        "Town_Name": "竹東鎮"
+    },
+    {
+        "County_ID": "10004",
+        "County_Name": "新竹縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1000403",
+        "Town_Name": "新埔鎮"
+    },
+    {
+        "County_ID": "10004",
+        "County_Name": "新竹縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1000404",
+        "Town_Name": "關西鎮"
+    },
+    {
+        "County_ID": "10004",
+        "County_Name": "新竹縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1000405",
+        "Town_Name": "湖口鄉"
+    },
+    {
+        "County_ID": "10004",
+        "County_Name": "新竹縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1000407",
+        "Town_Name": "芎林鄉"
+    },
+    {
+        "County_ID": "10004",
+        "County_Name": "新竹縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1000408",
+        "Town_Name": "橫山鄉"
+    },
+    {
+        "County_ID": "10004",
+        "County_Name": "新竹縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1000409",
+        "Town_Name": "北埔鄉"
+    },
+    {
+        "County_ID": "10004",
+        "County_Name": "新竹縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1000410",
+        "Town_Name": "寶山鄉"
+    },
+    {
+        "County_ID": "10004",
+        "County_Name": "新竹縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1000412",
+        "Town_Name": "尖石鄉"
+    },
+    {
+        "County_ID": "10004",
+        "County_Name": "新竹縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1000413",
+        "Town_Name": "五峰鄉"
+    },
+    {
+        "County_ID": "10005",
+        "County_Name": "苗栗縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1000501",
+        "Town_Name": "苗栗市"
+    },
+    {
+        "County_ID": "10005",
+        "County_Name": "苗栗縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1000505",
+        "Town_Name": "頭份鎮"
+    },
+    {
+        "County_ID": "10005",
+        "County_Name": "苗栗縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1000507",
+        "Town_Name": "卓蘭鎮"
+    },
+    {
+        "County_ID": "10005",
+        "County_Name": "苗栗縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1000508",
+        "Town_Name": "大湖鄉"
+    },
+    {
+        "County_ID": "10005",
+        "County_Name": "苗栗縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1000509",
+        "Town_Name": "公館鄉"
+    },
+    {
+        "County_ID": "10005",
+        "County_Name": "苗栗縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1000510",
+        "Town_Name": "銅鑼鄉"
+    },
+    {
+        "County_ID": "10005",
+        "County_Name": "苗栗縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1000512",
+        "Town_Name": "頭屋鄉"
+    },
+    {
+        "County_ID": "10005",
+        "County_Name": "苗栗縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1000513",
+        "Town_Name": "三義鄉"
+    },
+    {
+        "County_ID": "10005",
+        "County_Name": "苗栗縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1000514",
+        "Town_Name": "西湖鄉"
+    },
+    {
+        "County_ID": "10005",
+        "County_Name": "苗栗縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1000515",
+        "Town_Name": "造橋鄉"
+    },
+    {
+        "County_ID": "10005",
+        "County_Name": "苗栗縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1000517",
+        "Town_Name": "獅潭鄉"
+    },
+    {
+        "County_ID": "10005",
+        "County_Name": "苗栗縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1000518",
+        "Town_Name": "泰安鄉"
+    },
+    {
+        "County_ID": "10007",
+        "County_Name": "彰化縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1000701",
+        "Town_Name": "彰化市"
+    },
+    {
+        "County_ID": "10007",
+        "County_Name": "彰化縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1000703",
+        "Town_Name": "和美鎮"
+    },
+    {
+        "County_ID": "10007",
+        "County_Name": "彰化縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1000704",
+        "Town_Name": "線西鄉"
+    },
+    {
+        "County_ID": "10007",
+        "County_Name": "彰化縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1000705",
+        "Town_Name": "伸港鄉"
+    },
+    {
+        "County_ID": "10007",
+        "County_Name": "彰化縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1000707",
+        "Town_Name": "秀水鄉"
+    },
+    {
+        "County_ID": "10007",
+        "County_Name": "彰化縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1000708",
+        "Town_Name": "花壇鄉"
+    },
+    {
+        "County_ID": "10007",
+        "County_Name": "彰化縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1000709",
+        "Town_Name": "芬園鄉"
+    },
+    {
+        "County_ID": "10007",
+        "County_Name": "彰化縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1000710",
+        "Town_Name": "員林市"
+    },
+    {
+        "County_ID": "10007",
+        "County_Name": "彰化縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1000711",
+        "Town_Name": "溪湖鎮"
+    },
+    {
+        "County_ID": "10010",
+        "County_Name": "嘉義縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1001009",
+        "Town_Name": "東石鄉"
+    },
+    {
+        "County_ID": "10007",
+        "County_Name": "彰化縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1000713",
+        "Town_Name": "大村鄉"
+    },
+    {
+        "County_ID": "10007",
+        "County_Name": "彰化縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1000714",
+        "Town_Name": "埔鹽鄉"
+    },
+    {
+        "County_ID": "10007",
+        "County_Name": "彰化縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1000715",
+        "Town_Name": "埔心鄉"
+    },
+    {
+        "County_ID": "10007",
+        "County_Name": "彰化縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1000716",
+        "Town_Name": "永靖鄉"
+    },
+    {
+        "County_ID": "10007",
+        "County_Name": "彰化縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1000718",
+        "Town_Name": "二水鄉"
+    },
+    {
+        "County_ID": "10007",
+        "County_Name": "彰化縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1000719",
+        "Town_Name": "北斗鎮"
+    },
+    {
+        "County_ID": "10007",
+        "County_Name": "彰化縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1000720",
+        "Town_Name": "二林鎮"
+    },
+    {
+        "County_ID": "10007",
+        "County_Name": "彰化縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1000721",
+        "Town_Name": "田尾鄉"
+    },
+    {
+        "County_ID": "10007",
+        "County_Name": "彰化縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1000722",
+        "Town_Name": "埤頭鄉"
+    },
+    {
+        "County_ID": "10007",
+        "County_Name": "彰化縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1000723",
+        "Town_Name": "芳苑鄉"
+    },
+    {
+        "County_ID": "10007",
+        "County_Name": "彰化縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1000724",
+        "Town_Name": "大城鄉"
+    },
+    {
+        "County_ID": "10007",
+        "County_Name": "彰化縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1000725",
+        "Town_Name": "竹塘鄉"
+    },
+    {
+        "County_ID": "10007",
+        "County_Name": "彰化縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1000726",
+        "Town_Name": "溪州鄉"
+    },
+    {
+        "County_ID": "10008",
+        "County_Name": "南投縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1000801",
+        "Town_Name": "南投市"
+    },
+    {
+        "County_ID": "10008",
+        "County_Name": "南投縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1000802",
+        "Town_Name": "埔里鎮"
+    },
+    {
+        "County_ID": "10008",
+        "County_Name": "南投縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1000803",
+        "Town_Name": "草屯鎮"
+    },
+    {
+        "County_ID": "10008",
+        "County_Name": "南投縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1000804",
+        "Town_Name": "竹山鎮"
+    },
+    {
+        "County_ID": "10008",
+        "County_Name": "南投縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1000805",
+        "Town_Name": "集集鎮"
+    },
+    {
+        "County_ID": "10008",
+        "County_Name": "南投縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1000806",
+        "Town_Name": "名間鄉"
+    },
+    {
+        "County_ID": "10008",
+        "County_Name": "南投縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1000807",
+        "Town_Name": "鹿谷鄉"
+    },
+    {
+        "County_ID": "10008",
+        "County_Name": "南投縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1000808",
+        "Town_Name": "中寮鄉"
+    },
+    {
+        "County_ID": "10008",
+        "County_Name": "南投縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1000809",
+        "Town_Name": "魚池鄉"
+    },
+    {
+        "County_ID": "10008",
+        "County_Name": "南投縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1000810",
+        "Town_Name": "國姓鄉"
+    },
+    {
+        "County_ID": "10008",
+        "County_Name": "南投縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1000811",
+        "Town_Name": "水里鄉"
+    },
+    {
+        "County_ID": "10008",
+        "County_Name": "南投縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1000812",
+        "Town_Name": "信義鄉"
+    },
+    {
+        "County_ID": "10008",
+        "County_Name": "南投縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1000813",
+        "Town_Name": "仁愛鄉"
+    },
+    {
+        "County_ID": "10009",
+        "County_Name": "雲林縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1000901",
+        "Town_Name": "斗六市"
+    },
+    {
+        "County_ID": "10009",
+        "County_Name": "雲林縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1000902",
+        "Town_Name": "斗南鎮"
+    },
+    {
+        "County_ID": "10009",
+        "County_Name": "雲林縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1000903",
+        "Town_Name": "虎尾鎮"
+    },
+    {
+        "County_ID": "10009",
+        "County_Name": "雲林縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1000904",
+        "Town_Name": "西螺鎮"
+    },
+    {
+        "County_ID": "10009",
+        "County_Name": "雲林縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1000905",
+        "Town_Name": "土庫鎮"
+    },
+    {
+        "County_ID": "10009",
+        "County_Name": "雲林縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1000906",
+        "Town_Name": "北港鎮"
+    },
+    {
+        "County_ID": "10009",
+        "County_Name": "雲林縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1000907",
+        "Town_Name": "古坑鄉"
+    },
+    {
+        "County_ID": "10009",
+        "County_Name": "雲林縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1000908",
+        "Town_Name": "大埤鄉"
+    },
+    {
+        "County_ID": "10009",
+        "County_Name": "雲林縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1000909",
+        "Town_Name": "莿桐鄉"
+    },
+    {
+        "County_ID": "10009",
+        "County_Name": "雲林縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1000910",
+        "Town_Name": "林內鄉"
+    },
+    {
+        "County_ID": "10009",
+        "County_Name": "雲林縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1000911",
+        "Town_Name": "二崙鄉"
+    },
+    {
+        "County_ID": "10009",
+        "County_Name": "雲林縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1000912",
+        "Town_Name": "崙背鄉"
+    },
+    {
+        "County_ID": "10009",
+        "County_Name": "雲林縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1000914",
+        "Town_Name": "東勢鄉"
+    },
+    {
+        "County_ID": "10009",
+        "County_Name": "雲林縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1000915",
+        "Town_Name": "褒忠鄉"
+    },
+    {
+        "County_ID": "10009",
+        "County_Name": "雲林縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1000917",
+        "Town_Name": "元長鄉"
+    },
+    {
+        "County_ID": "10009",
+        "County_Name": "雲林縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1000920",
+        "Town_Name": "水林鄉"
+    },
+    {
+        "County_ID": "10010",
+        "County_Name": "嘉義縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1001001",
+        "Town_Name": "太保市"
+    },
+    {
+        "County_ID": "10010",
+        "County_Name": "嘉義縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1001002",
+        "Town_Name": "朴子市"
+    },
+    {
+        "County_ID": "10010",
+        "County_Name": "嘉義縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1001004",
+        "Town_Name": "大林鎮"
+    },
+    {
+        "County_ID": "10010",
+        "County_Name": "嘉義縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1001005",
+        "Town_Name": "民雄鄉"
+    },
+    {
+        "County_ID": "10010",
+        "County_Name": "嘉義縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1001006",
+        "Town_Name": "溪口鄉"
+    },
+    {
+        "County_ID": "10010",
+        "County_Name": "嘉義縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1001007",
+        "Town_Name": "新港鄉"
+    },
+    {
+        "County_ID": "10010",
+        "County_Name": "嘉義縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1001008",
+        "Town_Name": "六腳鄉"
+    },
+    {
+        "County_ID": "10010",
+        "County_Name": "嘉義縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1001010",
+        "Town_Name": "義竹鄉"
+    },
+    {
+        "County_ID": "10010",
+        "County_Name": "嘉義縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1001011",
+        "Town_Name": "鹿草鄉"
+    },
+    {
+        "County_ID": "10010",
+        "County_Name": "嘉義縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1001012",
+        "Town_Name": "水上鄉"
+    },
+    {
+        "County_ID": "10010",
+        "County_Name": "嘉義縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1001013",
+        "Town_Name": "中埔鄉"
+    },
+    {
+        "County_ID": "10010",
+        "County_Name": "嘉義縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1001014",
+        "Town_Name": "竹崎鄉"
+    },
+    {
+        "County_ID": "10010",
+        "County_Name": "嘉義縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1001015",
+        "Town_Name": "梅山鄉"
+    },
+    {
+        "County_ID": "10010",
+        "County_Name": "嘉義縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1001016",
+        "Town_Name": "番路鄉"
+    },
+    {
+        "County_ID": "10010",
+        "County_Name": "嘉義縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1001017",
+        "Town_Name": "大埔鄉"
+    },
+    {
+        "County_ID": "10010",
+        "County_Name": "嘉義縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1001018",
+        "Town_Name": "阿里山鄉"
+    },
+    {
+        "County_ID": "10013",
+        "County_Name": "屏東縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1001301",
+        "Town_Name": "屏東市"
+    },
+    {
+        "County_ID": "10013",
+        "County_Name": "屏東縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1001302",
+        "Town_Name": "潮州鎮"
+    },
+    {
+        "County_ID": "10013",
+        "County_Name": "屏東縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1001306",
+        "Town_Name": "長治鄉"
+    },
+    {
+        "County_ID": "10013",
+        "County_Name": "屏東縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1001307",
+        "Town_Name": "麟洛鄉"
+    },
+    {
+        "County_ID": "10013",
+        "County_Name": "屏東縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1001308",
+        "Town_Name": "九如鄉"
+    },
+    {
+        "County_ID": "10013",
+        "County_Name": "屏東縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1001309",
+        "Town_Name": "里港鄉"
+    },
+    {
+        "County_ID": "10013",
+        "County_Name": "屏東縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1001310",
+        "Town_Name": "鹽埔鄉"
+    },
+    {
+        "County_ID": "10013",
+        "County_Name": "屏東縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1001311",
+        "Town_Name": "高樹鄉"
+    },
+    {
+        "County_ID": "10013",
+        "County_Name": "屏東縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1001312",
+        "Town_Name": "萬巒鄉"
+    },
+    {
+        "County_ID": "10013",
+        "County_Name": "屏東縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1001313",
+        "Town_Name": "內埔鄉"
+    },
+    {
+        "County_ID": "10013",
+        "County_Name": "屏東縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1001315",
+        "Town_Name": "新埤鄉"
+    },
+    {
+        "County_ID": "10013",
+        "County_Name": "屏東縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1001318",
+        "Town_Name": "崁頂鄉"
+    },
+    {
+        "County_ID": "10013",
+        "County_Name": "屏東縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1001320",
+        "Town_Name": "南州鄉"
+    },
+    {
+        "County_ID": "10013",
+        "County_Name": "屏東縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1001322",
+        "Town_Name": "琉球鄉"
+    },
+    {
+        "County_ID": "10013",
+        "County_Name": "屏東縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1001326",
+        "Town_Name": "三地門鄉"
+    },
+    {
+        "County_ID": "10013",
+        "County_Name": "屏東縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1001327",
+        "Town_Name": "霧臺鄉"
+    },
+    {
+        "County_ID": "10013",
+        "County_Name": "屏東縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1001328",
+        "Town_Name": "瑪家鄉"
+    },
+    {
+        "County_ID": "10013",
+        "County_Name": "屏東縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1001329",
+        "Town_Name": "泰武鄉"
+    },
+    {
+        "County_ID": "10013",
+        "County_Name": "屏東縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1001330",
+        "Town_Name": "來義鄉"
+    },
+    {
+        "County_ID": "10013",
+        "County_Name": "屏東縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1001331",
+        "Town_Name": "春日鄉"
+    },
+    {
+        "County_ID": "10013",
+        "County_Name": "屏東縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1001332",
+        "Town_Name": "獅子鄉"
+    },
+    {
+        "County_ID": "10014",
+        "County_Name": "臺東縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1001403",
+        "Town_Name": "關山鎮"
+    },
+    {
+        "County_ID": "10014",
+        "County_Name": "臺東縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1001405",
+        "Town_Name": "鹿野鄉"
+    },
+    {
+        "County_ID": "10014",
+        "County_Name": "臺東縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1001406",
+        "Town_Name": "池上鄉"
+    },
+    {
+        "County_ID": "10014",
+        "County_Name": "臺東縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1001412",
+        "Town_Name": "海端鄉"
+    },
+    {
+        "County_ID": "10014",
+        "County_Name": "臺東縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1001413",
+        "Town_Name": "延平鄉"
+    },
+    {
+        "County_ID": "10015",
+        "County_Name": "花蓮縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1001502",
+        "Town_Name": "鳳林鎮"
+    },
+    {
+        "County_ID": "10015",
+        "County_Name": "花蓮縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1001503",
+        "Town_Name": "玉里鎮"
+    },
+    {
+        "County_ID": "10015",
+        "County_Name": "花蓮縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1001507",
+        "Town_Name": "光復鄉"
+    },
+    {
+        "County_ID": "10015",
+        "County_Name": "花蓮縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1001509",
+        "Town_Name": "瑞穗鄉"
+    },
+    {
+        "County_ID": "10015",
+        "County_Name": "花蓮縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1001510",
+        "Town_Name": "富里鄉"
+    },
+    {
+        "County_ID": "10015",
+        "County_Name": "花蓮縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1001512",
+        "Town_Name": "萬榮鄉"
+    },
+    {
+        "County_ID": "10015",
+        "County_Name": "花蓮縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1001513",
+        "Town_Name": "卓溪鄉"
+    },
+    {
+        "County_ID": "10016",
+        "County_Name": "澎湖縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1001601",
+        "Town_Name": "馬公市"
+    },
+    {
+        "County_ID": "10016",
+        "County_Name": "澎湖縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1001602",
+        "Town_Name": "湖西鄉"
+    },
+    {
+        "County_ID": "10016",
+        "County_Name": "澎湖縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1001603",
+        "Town_Name": "白沙鄉"
+    },
+    {
+        "County_ID": "10016",
+        "County_Name": "澎湖縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1001604",
+        "Town_Name": "西嶼鄉"
+    },
+    {
+        "County_ID": "10016",
+        "County_Name": "澎湖縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1001605",
+        "Town_Name": "望安鄉"
+    },
+    {
+        "County_ID": "10016",
+        "County_Name": "澎湖縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1001606",
+        "Town_Name": "七美鄉"
+    },
+    {
+        "County_ID": "10017",
+        "County_Name": "基隆市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1001702",
+        "Town_Name": "七堵區"
+    },
+    {
+        "County_ID": "10017",
+        "County_Name": "基隆市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1001703",
+        "Town_Name": "暖暖區"
+    },
+    {
+        "County_ID": "10017",
+        "County_Name": "基隆市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1001704",
+        "Town_Name": "仁愛區"
+    },
+    {
+        "County_ID": "10017",
+        "County_Name": "基隆市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1001707",
+        "Town_Name": "信義區"
+    },
+    {
+        "County_ID": "10018",
+        "County_Name": "新竹市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1001801",
+        "Town_Name": "東區"
+    },
+    {
+        "County_ID": "10020",
+        "County_Name": "嘉義市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1002001",
+        "Town_Name": "東區"
+    },
+    {
+        "County_ID": "10020",
+        "County_Name": "嘉義市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1002002",
+        "Town_Name": "西區"
+    },
+    {
+        "County_ID": "63",
+        "County_Name": "臺北市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "6300100",
+        "Town_Name": "松山區"
+    },
+    {
+        "County_ID": "63",
+        "County_Name": "臺北市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "6300200",
+        "Town_Name": "信義區"
+    },
+    {
+        "County_ID": "63",
+        "County_Name": "臺北市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "6300300",
+        "Town_Name": "大安區"
+    },
+    {
+        "County_ID": "63",
+        "County_Name": "臺北市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "6300400",
+        "Town_Name": "中山區"
+    },
+    {
+        "County_ID": "63",
+        "County_Name": "臺北市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "6300500",
+        "Town_Name": "中正區"
+    },
+    {
+        "County_ID": "63",
+        "County_Name": "臺北市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "6300600",
+        "Town_Name": "大同區"
+    },
+    {
+        "County_ID": "63",
+        "County_Name": "臺北市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "6300700",
+        "Town_Name": "萬華區"
+    },
+    {
+        "County_ID": "63",
+        "County_Name": "臺北市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "6300800",
+        "Town_Name": "文山區"
+    },
+    {
+        "County_ID": "63",
+        "County_Name": "臺北市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "6300900",
+        "Town_Name": "南港區"
+    },
+    {
+        "County_ID": "63",
+        "County_Name": "臺北市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "6301000",
+        "Town_Name": "內湖區"
+    },
+    {
+        "County_ID": "63",
+        "County_Name": "臺北市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "6301100",
+        "Town_Name": "士林區"
+    },
+    {
+        "County_ID": "63",
+        "County_Name": "臺北市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "6301200",
+        "Town_Name": "北投區"
+    },
+    {
+        "County_ID": "64",
+        "County_Name": "高雄市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "6400100",
+        "Town_Name": "鹽埕區"
+    },
+    {
+        "County_ID": "64",
+        "County_Name": "高雄市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "6400500",
+        "Town_Name": "三民區"
+    },
+    {
+        "County_ID": "64",
+        "County_Name": "高雄市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "6400600",
+        "Town_Name": "新興區"
+    },
+    {
+        "County_ID": "64",
+        "County_Name": "高雄市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "6400700",
+        "Town_Name": "前金區"
+    },
+    {
+        "County_ID": "64",
+        "County_Name": "高雄市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "6400800",
+        "Town_Name": "苓雅區"
+    },
+    {
+        "County_ID": "64",
+        "County_Name": "高雄市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "6400900",
+        "Town_Name": "前鎮區"
+    },
+    {
+        "County_ID": "10014",
+        "County_Name": "臺東縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1001414",
+        "Town_Name": "金峰鄉"
+    },
+    {
+        "County_ID": "10002",
+        "County_Name": "宜蘭縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1000203",
+        "Town_Name": "蘇澳鎮"
+    },
+    {
+        "County_ID": "10002",
+        "County_Name": "宜蘭縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1000204",
+        "Town_Name": "頭城鎮"
+    },
+    {
+        "County_ID": "10002",
+        "County_Name": "宜蘭縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1000206",
+        "Town_Name": "壯圍鄉"
+    },
+    {
+        "County_ID": "10002",
+        "County_Name": "宜蘭縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1000209",
+        "Town_Name": "五結鄉"
+    },
+    {
+        "County_ID": "10002",
+        "County_Name": "宜蘭縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1000212",
+        "Town_Name": "南澳鄉"
+    },
+    {
+        "County_ID": "10004",
+        "County_Name": "新竹縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1000401",
+        "Town_Name": "竹北市"
+    },
+    {
+        "County_ID": "10004",
+        "County_Name": "新竹縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1000406",
+        "Town_Name": "新豐鄉"
+    },
+    {
+        "County_ID": "10005",
+        "County_Name": "苗栗縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1000502",
+        "Town_Name": "苑裡鎮"
+    },
+    {
+        "County_ID": "10005",
+        "County_Name": "苗栗縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1000503",
+        "Town_Name": "通霄鎮"
+    },
+    {
+        "County_ID": "10005",
+        "County_Name": "苗栗縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1000504",
+        "Town_Name": "竹南鎮"
+    },
+    {
+        "County_ID": "10005",
+        "County_Name": "苗栗縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1000506",
+        "Town_Name": "後龍鎮"
+    },
+    {
+        "County_ID": "10007",
+        "County_Name": "彰化縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1000702",
+        "Town_Name": "鹿港鎮"
+    },
+    {
+        "County_ID": "10007",
+        "County_Name": "彰化縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1000706",
+        "Town_Name": "福興鄉"
+    },
+    {
+        "County_ID": "10009",
+        "County_Name": "雲林縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1000916",
+        "Town_Name": "臺西鄉"
+    },
+    {
+        "County_ID": "10009",
+        "County_Name": "雲林縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1000918",
+        "Town_Name": "四湖鄉"
+    },
+    {
+        "County_ID": "10009",
+        "County_Name": "雲林縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1000919",
+        "Town_Name": "口湖鄉"
+    },
+    {
+        "County_ID": "10010",
+        "County_Name": "嘉義縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1001003",
+        "Town_Name": "布袋鎮"
+    },
+    {
+        "County_ID": "10013",
+        "County_Name": "屏東縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1001303",
+        "Town_Name": "東港鎮"
+    },
+    {
+        "County_ID": "10013",
+        "County_Name": "屏東縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1001304",
+        "Town_Name": "恆春鎮"
+    },
+    {
+        "County_ID": "10013",
+        "County_Name": "屏東縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1001316",
+        "Town_Name": "枋寮鄉"
+    },
+    {
+        "County_ID": "10013",
+        "County_Name": "屏東縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1001317",
+        "Town_Name": "新園鄉"
+    },
+    {
+        "County_ID": "10013",
+        "County_Name": "屏東縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1001319",
+        "Town_Name": "林邊鄉"
+    },
+    {
+        "County_ID": "10013",
+        "County_Name": "屏東縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1001323",
+        "Town_Name": "車城鄉"
+    },
+    {
+        "County_ID": "10013",
+        "County_Name": "屏東縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1001324",
+        "Town_Name": "滿州鄉"
+    },
+    {
+        "County_ID": "10013",
+        "County_Name": "屏東縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1001325",
+        "Town_Name": "枋山鄉"
+    },
+    {
+        "County_ID": "10013",
+        "County_Name": "屏東縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1001333",
+        "Town_Name": "牡丹鄉"
+    },
+    {
+        "County_ID": "10014",
+        "County_Name": "臺東縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1001401",
+        "Town_Name": "臺東市"
+    },
+    {
+        "County_ID": "10014",
+        "County_Name": "臺東縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1001404",
+        "Town_Name": "卑南鄉"
+    },
+    {
+        "County_ID": "10014",
+        "County_Name": "臺東縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1001407",
+        "Town_Name": "東河鄉"
+    },
+    {
+        "County_ID": "10014",
+        "County_Name": "臺東縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1001408",
+        "Town_Name": "長濱鄉"
+    },
+    {
+        "County_ID": "10014",
+        "County_Name": "臺東縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1001409",
+        "Town_Name": "太麻里鄉"
+    },
+    {
+        "County_ID": "10014",
+        "County_Name": "臺東縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1001410",
+        "Town_Name": "大武鄉"
+    },
+    {
+        "County_ID": "10014",
+        "County_Name": "臺東縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1001415",
+        "Town_Name": "達仁鄉"
+    },
+    {
+        "County_ID": "10015",
+        "County_Name": "花蓮縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1001501",
+        "Town_Name": "花蓮市"
+    },
+    {
+        "County_ID": "10015",
+        "County_Name": "花蓮縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1001504",
+        "Town_Name": "新城鄉"
+    },
+    {
+        "County_ID": "10015",
+        "County_Name": "花蓮縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1001505",
+        "Town_Name": "吉安鄉"
+    },
+    {
+        "County_ID": "10015",
+        "County_Name": "花蓮縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1001506",
+        "Town_Name": "壽豐鄉"
+    },
+    {
+        "County_ID": "10015",
+        "County_Name": "花蓮縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1001508",
+        "Town_Name": "豐濱鄉"
+    },
+    {
+        "County_ID": "10015",
+        "County_Name": "花蓮縣",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1001511",
+        "Town_Name": "秀林鄉"
+    },
+    {
+        "County_ID": "10017",
+        "County_Name": "基隆市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1001701",
+        "Town_Name": "中正區"
+    },
+    {
+        "County_ID": "10017",
+        "County_Name": "基隆市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1001705",
+        "Town_Name": "中山區"
+    },
+    {
+        "County_ID": "10017",
+        "County_Name": "基隆市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1001706",
+        "Town_Name": "安樂區"
+    },
+    {
+        "County_ID": "10018",
+        "County_Name": "新竹市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1001802",
+        "Town_Name": "北區"
+    },
+    {
+        "County_ID": "10018",
+        "County_Name": "新竹市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "1001803",
+        "Town_Name": "香山區"
+    },
+    {
+        "County_ID": "64",
+        "County_Name": "高雄市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "6400200",
+        "Town_Name": "鼓山區"
+    },
+    {
+        "County_ID": "64",
+        "County_Name": "高雄市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "6400300",
+        "Town_Name": "左營區"
+    },
+    {
+        "County_ID": "64",
+        "County_Name": "高雄市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "6400400",
+        "Town_Name": "楠梓區"
+    },
+    {
+        "County_ID": "64",
+        "County_Name": "高雄市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "6401200",
+        "Town_Name": "鳳山區"
+    },
+    {
+        "County_ID": "64",
+        "County_Name": "高雄市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "6401400",
+        "Town_Name": "大寮區"
+    },
+    {
+        "County_ID": "64",
+        "County_Name": "高雄市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "6401500",
+        "Town_Name": "大樹區"
+    },
+    {
+        "County_ID": "64",
+        "County_Name": "高雄市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "6401600",
+        "Town_Name": "大社區"
+    },
+    {
+        "County_ID": "64",
+        "County_Name": "高雄市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "6401700",
+        "Town_Name": "仁武區"
+    },
+    {
+        "County_ID": "64",
+        "County_Name": "高雄市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "6401800",
+        "Town_Name": "鳥松區"
+    },
+    {
+        "County_ID": "64",
+        "County_Name": "高雄市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "6401900",
+        "Town_Name": "岡山區"
+    },
+    {
+        "County_ID": "64",
+        "County_Name": "高雄市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "6402000",
+        "Town_Name": "橋頭區"
+    },
+    {
+        "County_ID": "64",
+        "County_Name": "高雄市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "6402100",
+        "Town_Name": "燕巢區"
+    },
+    {
+        "County_ID": "64",
+        "County_Name": "高雄市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "6402200",
+        "Town_Name": "田寮區"
+    },
+    {
+        "County_ID": "64",
+        "County_Name": "高雄市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "6402300",
+        "Town_Name": "阿蓮區"
+    },
+    {
+        "County_ID": "64",
+        "County_Name": "高雄市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "6402400",
+        "Town_Name": "路竹區"
+    },
+    {
+        "County_ID": "64",
+        "County_Name": "高雄市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "6402500",
+        "Town_Name": "湖內區"
+    },
+    {
+        "County_ID": "64",
+        "County_Name": "高雄市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "6403000",
+        "Town_Name": "旗山區"
+    },
+    {
+        "County_ID": "64",
+        "County_Name": "高雄市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "6403100",
+        "Town_Name": "美濃區"
+    },
+    {
+        "County_ID": "64",
+        "County_Name": "高雄市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "6403200",
+        "Town_Name": "六龜區"
+    },
+    {
+        "County_ID": "64",
+        "County_Name": "高雄市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "6403300",
+        "Town_Name": "甲仙區"
+    },
+    {
+        "County_ID": "64",
+        "County_Name": "高雄市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "6403400",
+        "Town_Name": "杉林區"
+    },
+    {
+        "County_ID": "64",
+        "County_Name": "高雄市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "6403500",
+        "Town_Name": "內門區"
+    },
+    {
+        "County_ID": "64",
+        "County_Name": "高雄市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "6403600",
+        "Town_Name": "茂林區"
+    },
+    {
+        "County_ID": "64",
+        "County_Name": "高雄市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "6403700",
+        "Town_Name": "桃源區"
+    },
+    {
+        "County_ID": "64",
+        "County_Name": "高雄市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "6403800",
+        "Town_Name": "那瑪夏區"
+    },
+    {
+        "County_ID": "65",
+        "County_Name": "新北市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "6500100",
+        "Town_Name": "板橋區"
+    },
+    {
+        "County_ID": "65",
+        "County_Name": "新北市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "6500200",
+        "Town_Name": "三重區"
+    },
+    {
+        "County_ID": "65",
+        "County_Name": "新北市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "6500300",
+        "Town_Name": "中和區"
+    },
+    {
+        "County_ID": "65",
+        "County_Name": "新北市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "6500400",
+        "Town_Name": "永和區"
+    },
+    {
+        "County_ID": "65",
+        "County_Name": "新北市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "6500500",
+        "Town_Name": "新莊區"
+    },
+    {
+        "County_ID": "65",
+        "County_Name": "新北市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "6500600",
+        "Town_Name": "新店區"
+    },
+    {
+        "County_ID": "65",
+        "County_Name": "新北市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "6500700",
+        "Town_Name": "樹林區"
+    },
+    {
+        "County_ID": "65",
+        "County_Name": "新北市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "6500800",
+        "Town_Name": "鶯歌區"
+    },
+    {
+        "County_ID": "65",
+        "County_Name": "新北市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "6500900",
+        "Town_Name": "三峽區"
+    },
+    {
+        "County_ID": "65",
+        "County_Name": "新北市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "6501100",
+        "Town_Name": "汐止區"
+    },
+    {
+        "County_ID": "65",
+        "County_Name": "新北市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "6501300",
+        "Town_Name": "土城區"
+    },
+    {
+        "County_ID": "65",
+        "County_Name": "新北市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "6501400",
+        "Town_Name": "蘆洲區"
+    },
+    {
+        "County_ID": "65",
+        "County_Name": "新北市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "6501500",
+        "Town_Name": "五股區"
+    },
+    {
+        "County_ID": "65",
+        "County_Name": "新北市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "6501600",
+        "Town_Name": "泰山區"
+    },
+    {
+        "County_ID": "65",
+        "County_Name": "新北市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "6501800",
+        "Town_Name": "深坑區"
+    },
+    {
+        "County_ID": "65",
+        "County_Name": "新北市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "6501900",
+        "Town_Name": "石碇區"
+    },
+    {
+        "County_ID": "65",
+        "County_Name": "新北市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "6502000",
+        "Town_Name": "坪林區"
+    },
+    {
+        "County_ID": "65",
+        "County_Name": "新北市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "6502400",
+        "Town_Name": "平溪區"
+    },
+    {
+        "County_ID": "65",
+        "County_Name": "新北市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "6502500",
+        "Town_Name": "雙溪區"
+    },
+    {
+        "County_ID": "65",
+        "County_Name": "新北市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "6502900",
+        "Town_Name": "烏來區"
+    },
+    {
+        "County_ID": "66",
+        "County_Name": "臺中市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "6600100",
+        "Town_Name": "中區"
+    },
+    {
+        "County_ID": "66",
+        "County_Name": "臺中市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "6600200",
+        "Town_Name": "東區"
+    },
+    {
+        "County_ID": "66",
+        "County_Name": "臺中市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "6600300",
+        "Town_Name": "南區"
+    },
+    {
+        "County_ID": "66",
+        "County_Name": "臺中市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "6600400",
+        "Town_Name": "西區"
+    },
+    {
+        "County_ID": "66",
+        "County_Name": "臺中市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "6600500",
+        "Town_Name": "北區"
+    },
+    {
+        "County_ID": "66",
+        "County_Name": "臺中市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "6600600",
+        "Town_Name": "西屯區"
+    },
+    {
+        "County_ID": "66",
+        "County_Name": "臺中市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "6600800",
+        "Town_Name": "北屯區"
+    },
+    {
+        "County_ID": "66",
+        "County_Name": "臺中市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "6600900",
+        "Town_Name": "豐原區"
+    },
+    {
+        "County_ID": "66",
+        "County_Name": "臺中市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "6601000",
+        "Town_Name": "東勢區"
+    },
+    {
+        "County_ID": "66",
+        "County_Name": "臺中市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "6601300",
+        "Town_Name": "沙鹿區"
+    },
+    {
+        "County_ID": "66",
+        "County_Name": "臺中市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "6601500",
+        "Town_Name": "后里區"
+    },
+    {
+        "County_ID": "66",
+        "County_Name": "臺中市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "6601600",
+        "Town_Name": "神岡區"
+    },
+    {
+        "County_ID": "66",
+        "County_Name": "臺中市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "6601700",
+        "Town_Name": "潭子區"
+    },
+    {
+        "County_ID": "66",
+        "County_Name": "臺中市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "6601800",
+        "Town_Name": "大雅區"
+    },
+    {
+        "County_ID": "66",
+        "County_Name": "臺中市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "6601900",
+        "Town_Name": "新社區"
+    },
+    {
+        "County_ID": "66",
+        "County_Name": "臺中市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "6602000",
+        "Town_Name": "石岡區"
+    },
+    {
+        "County_ID": "66",
+        "County_Name": "臺中市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "6602100",
+        "Town_Name": "外埔區"
+    },
+    {
+        "County_ID": "66",
+        "County_Name": "臺中市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "6602400",
+        "Town_Name": "大肚區"
+    },
+    {
+        "County_ID": "66",
+        "County_Name": "臺中市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "6602600",
+        "Town_Name": "霧峰區"
+    },
+    {
+        "County_ID": "66",
+        "County_Name": "臺中市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "6602700",
+        "Town_Name": "太平區"
+    },
+    {
+        "County_ID": "66",
+        "County_Name": "臺中市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "6602800",
+        "Town_Name": "大里區"
+    },
+    {
+        "County_ID": "66",
+        "County_Name": "臺中市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "6602900",
+        "Town_Name": "和平區"
+    },
+    {
+        "County_ID": "67",
+        "County_Name": "臺南市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "6700100",
+        "Town_Name": "新營區"
+    },
+    {
+        "County_ID": "67",
+        "County_Name": "臺南市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "6700200",
+        "Town_Name": "鹽水區"
+    },
+    {
+        "County_ID": "67",
+        "County_Name": "臺南市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "6700300",
+        "Town_Name": "白河區"
+    },
+    {
+        "County_ID": "67",
+        "County_Name": "臺南市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "6700400",
+        "Town_Name": "柳營區"
+    },
+    {
+        "County_ID": "67",
+        "County_Name": "臺南市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "6700500",
+        "Town_Name": "後壁區"
+    },
+    {
+        "County_ID": "67",
+        "County_Name": "臺南市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "6700600",
+        "Town_Name": "東山區"
+    },
+    {
+        "County_ID": "67",
+        "County_Name": "臺南市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "6700700",
+        "Town_Name": "麻豆區"
+    },
+    {
+        "County_ID": "67",
+        "County_Name": "臺南市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "6700800",
+        "Town_Name": "下營區"
+    },
+    {
+        "County_ID": "67",
+        "County_Name": "臺南市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "6700900",
+        "Town_Name": "六甲區"
+    },
+    {
+        "County_ID": "67",
+        "County_Name": "臺南市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "6701000",
+        "Town_Name": "官田區"
+    },
+    {
+        "County_ID": "67",
+        "County_Name": "臺南市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "6701100",
+        "Town_Name": "大內區"
+    },
+    {
+        "County_ID": "67",
+        "County_Name": "臺南市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "6701200",
+        "Town_Name": "佳里區"
+    },
+    {
+        "County_ID": "67",
+        "County_Name": "臺南市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "6701300",
+        "Town_Name": "學甲區"
+    },
+    {
+        "County_ID": "67",
+        "County_Name": "臺南市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "6701400",
+        "Town_Name": "西港區"
+    },
+    {
+        "County_ID": "67",
+        "County_Name": "臺南市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "6701800",
+        "Town_Name": "新化區"
+    },
+    {
+        "County_ID": "67",
+        "County_Name": "臺南市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "6701900",
+        "Town_Name": "善化區"
+    },
+    {
+        "County_ID": "67",
+        "County_Name": "臺南市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "6702000",
+        "Town_Name": "新市區"
+    },
+    {
+        "County_ID": "67",
+        "County_Name": "臺南市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "6702100",
+        "Town_Name": "安定區"
+    },
+    {
+        "County_ID": "67",
+        "County_Name": "臺南市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "6702200",
+        "Town_Name": "山上區"
+    },
+    {
+        "County_ID": "67",
+        "County_Name": "臺南市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "6702300",
+        "Town_Name": "玉井區"
+    },
+    {
+        "County_ID": "67",
+        "County_Name": "臺南市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "6702400",
+        "Town_Name": "楠西區"
+    },
+    {
+        "County_ID": "67",
+        "County_Name": "臺南市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "6702500",
+        "Town_Name": "南化區"
+    },
+    {
+        "County_ID": "67",
+        "County_Name": "臺南市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "6702600",
+        "Town_Name": "左鎮區"
+    },
+    {
+        "County_ID": "67",
+        "County_Name": "臺南市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "6702700",
+        "Town_Name": "仁德區"
+    },
+    {
+        "County_ID": "67",
+        "County_Name": "臺南市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "6702800",
+        "Town_Name": "歸仁區"
+    },
+    {
+        "County_ID": "67",
+        "County_Name": "臺南市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "6702900",
+        "Town_Name": "關廟區"
+    },
+    {
+        "County_ID": "67",
+        "County_Name": "臺南市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "6703000",
+        "Town_Name": "龍崎區"
+    },
+    {
+        "County_ID": "67",
+        "County_Name": "臺南市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "6703100",
+        "Town_Name": "永康區"
+    },
+    {
+        "County_ID": "67",
+        "County_Name": "臺南市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "6703200",
+        "Town_Name": "東區"
+    },
+    {
+        "County_ID": "67",
+        "County_Name": "臺南市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "6703400",
+        "Town_Name": "北區"
+    },
+    {
+        "County_ID": "67",
+        "County_Name": "臺南市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "6703700",
+        "Town_Name": "中西區"
+    },
+    {
+        "County_ID": "64",
+        "County_Name": "高雄市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "6401300",
+        "Town_Name": "林園區"
+    },
+    {
+        "County_ID": "64",
+        "County_Name": "高雄市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "6402600",
+        "Town_Name": "茄萣區"
+    },
+    {
+        "County_ID": "64",
+        "County_Name": "高雄市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "6402700",
+        "Town_Name": "永安區"
+    },
+    {
+        "County_ID": "64",
+        "County_Name": "高雄市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "6402800",
+        "Town_Name": "彌陀區"
+    },
+    {
+        "County_ID": "64",
+        "County_Name": "高雄市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "6402900",
+        "Town_Name": "梓官區"
+    },
+    {
+        "County_ID": "65",
+        "County_Name": "新北市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "6501000",
+        "Town_Name": "淡水區"
+    },
+    {
+        "County_ID": "65",
+        "County_Name": "新北市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "6501200",
+        "Town_Name": "瑞芳區"
+    },
+    {
+        "County_ID": "65",
+        "County_Name": "新北市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "6501700",
+        "Town_Name": "林口區"
+    },
+    {
+        "County_ID": "65",
+        "County_Name": "新北市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "6502100",
+        "Town_Name": "三芝區"
+    },
+    {
+        "County_ID": "65",
+        "County_Name": "新北市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "6502200",
+        "Town_Name": "石門區"
+    },
+    {
+        "County_ID": "65",
+        "County_Name": "新北市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "6502300",
+        "Town_Name": "八里區"
+    },
+    {
+        "County_ID": "65",
+        "County_Name": "新北市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "6502600",
+        "Town_Name": "貢寮區"
+    },
+    {
+        "County_ID": "65",
+        "County_Name": "新北市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "6502700",
+        "Town_Name": "金山區"
+    },
+    {
+        "County_ID": "65",
+        "County_Name": "新北市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "6502800",
+        "Town_Name": "萬里區"
+    },
+    {
+        "County_ID": "66",
+        "County_Name": "臺中市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "6601100",
+        "Town_Name": "大甲區"
+    },
+    {
+        "County_ID": "66",
+        "County_Name": "臺中市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "6601200",
+        "Town_Name": "清水區"
+    },
+    {
+        "County_ID": "66",
+        "County_Name": "臺中市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "6602200",
+        "Town_Name": "大安區"
+    },
+    {
+        "County_ID": "66",
+        "County_Name": "臺中市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "6602500",
+        "Town_Name": "龍井區"
+    },
+    {
+        "County_ID": "67",
+        "County_Name": "臺南市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "6701500",
+        "Town_Name": "七股區"
+    },
+    {
+        "County_ID": "67",
+        "County_Name": "臺南市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "6701600",
+        "Town_Name": "將軍區"
+    },
+    {
+        "County_ID": "67",
+        "County_Name": "臺南市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "6701700",
+        "Town_Name": "北門區"
+    },
+    {
+        "County_ID": "67",
+        "County_Name": "臺南市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "6703300",
+        "Town_Name": "南區"
+    },
+    {
+        "County_ID": "67",
+        "County_Name": "臺南市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "6703500",
+        "Town_Name": "安南區"
+    },
+    {
+        "County_ID": "67",
+        "County_Name": "臺南市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "6703600",
+        "Town_Name": "安平區"
+    },
+    {
+        "County_ID": "66",
+        "County_Name": "臺中市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "6601400",
+        "Town_Name": "梧棲區"
+    },
+    {
+        "County_ID": "68",
+        "County_Name": "桃園市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "6800100",
+        "Town_Name": "桃園區"
+    },
+    {
+        "County_ID": "68",
+        "County_Name": "桃園市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "6800200",
+        "Town_Name": "中壢區"
+    },
+    {
+        "County_ID": "68",
+        "County_Name": "桃園市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "6800300",
+        "Town_Name": "大溪區"
+    },
+    {
+        "County_ID": "68",
+        "County_Name": "桃園市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "6800400",
+        "Town_Name": "楊梅區"
+    },
+    {
+        "County_ID": "68",
+        "County_Name": "桃園市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "6800500",
+        "Town_Name": "蘆竹區"
+    },
+    {
+        "County_ID": "68",
+        "County_Name": "桃園市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "6800700",
+        "Town_Name": "龜山區"
+    },
+    {
+        "County_ID": "68",
+        "County_Name": "桃園市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "6800800",
+        "Town_Name": "八德區"
+    },
+    {
+        "County_ID": "68",
+        "County_Name": "桃園市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "6800900",
+        "Town_Name": "龍潭區"
+    },
+    {
+        "County_ID": "68",
+        "County_Name": "桃園市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "6801000",
+        "Town_Name": "平鎮區"
+    },
+    {
+        "County_ID": "68",
+        "County_Name": "桃園市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "6801300",
+        "Town_Name": "復興區"
+    },
+    {
+        "County_ID": "68",
+        "County_Name": "桃園市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "6800600",
+        "Town_Name": "大園區"
+    },
+    {
+        "County_ID": "68",
+        "County_Name": "桃園市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "6801100",
+        "Town_Name": "新屋區"
+    },
+    {
+        "County_ID": "68",
+        "County_Name": "桃園市",
+        "Hospital": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Residence": {
+            "Female_Age": 0,
+            "Female_People": 0,
+            "Male_Age": 0,
+            "Male_People": 0,
+            "Total_Data": 0
+        },
+        "Town_ID": "6801200",
+        "Town_Name": "觀音區"
+    }
+]

@@ -1,0 +1,8 @@
+分群
+http://127.0.0.1:8000/get_clustering/?location=tainan&disease=dengue
+搜尋文章
+http://127.0.0.1:8000/get_document2/?location=tainan&keyword=登革熱&topic_number=0
+word2vec
+http://127.0.0.1:8000/get_word2vec/?location=tainan&keyword=登革熱
+文字雲
+http://127.0.0.1:8000/get_word_cloud/?location=tainan
